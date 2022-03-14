@@ -1,5 +1,9 @@
 # Rick and Morty
 
+
+https://user-images.githubusercontent.com/48584086/158141052-9e65351b-4955-45e7-ae77-61616bad837e.mp4
+
+
 Rick and Morty is a mobile application based on the television show Rick and Morty developed in React Native.
 
 ## prerequisite

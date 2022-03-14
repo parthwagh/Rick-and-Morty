@@ -26,7 +26,7 @@ npm i
 ```
 Run the project
 ```bash
-npm i
+npm start
 ```
 
 
